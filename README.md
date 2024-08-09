@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a AI Assistant (SecondBrainAI)<br>🌱 I’m currently learning NLP Tech
+🔭 I’m currently working on NLP<br>🌱 I’m currently learning NLP Tech
 
 
 ## 🌐 Socials:
